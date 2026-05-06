@@ -5,6 +5,7 @@ Faculty of Business, Economics and Accountancy , Universiti Malaysia Sabah
   <img src="https://raw.githubusercontent.com/azlinaaaa/Graduate-Employability-Analysis-Report-2025/b3153b8a30a8c3632fc604de9268e68d7a58bdc2/Dashboard/image.png" width="800"/>
 </p>
 
+
 ## 1. Introduction
 This report presents a comprehensive analysis of graduate outcomes for the Faculty of Business, Economics and Accountancy (FPEP) for the year 2025. The dashboard was developed using Microsoft Excel, utilizing data extracted from the university’s official graduate database.
 The purpose of this analysis is to:
@@ -103,15 +104,19 @@ The dashboard includes:
 
 ## 10. Recommendations
 To enhance graduate quality and employability:
+
 Academic Improvement
 -	Revise curriculum to align with industry demand 
--	Integrate more practical and industry-based learning 
+-	Integrate more practical and industry-based learning
+
 Industry Collaboration
 -	Strengthen partnerships with employers 
-	Expand internship and job placement opportunities 
-- Career Development
-  -Provide structured career support programs 
+-	Expand internship and job placement opportunities 
+
+Career Development
+-	Provide structured career support programs  
 -	Enhance soft skills, communication, and digital competencies 
+  
 Program-Specific Intervention
 -	Conduct detailed review of underperforming programs 
 -	Implement targeted improvement strategies 
